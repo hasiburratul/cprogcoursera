@@ -1,4 +1,4 @@
-Grading at Mon Jun  1 23:43:20 UTC 2020
+Grading at Tue Jun  2 00:00:34 UTC 2020
 Checking code1.c for legal syntax
 Checking for int max (int num1, int num2)
 Found on line 3, column 1 
@@ -7,8 +7,8 @@ Found on line 14, column 1
 Trying to run the code..
 Your file did not match the expected ouput
 Here is what you printed
-max(42, -69) is 42
-max(33, 0) is 33
-max(0x123456, 123456) is 1193046
+max(42,-69) is 42
+max(33,0) is 33
+max(0x123456,123456) is 1193046
 
 Overall Grade: F
